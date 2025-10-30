@@ -1,7 +1,7 @@
-## Hi there 👋
+## Helton Soares 👋
 
 
-**HeltonSoares93/HeltonSoares93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**32y, Spring boot developer, SQL Databse, student of algorithms and data structures**.
 
 Here are some ideas to get you started:
 
