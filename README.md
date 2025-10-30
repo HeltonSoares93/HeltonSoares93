@@ -1,7 +1,9 @@
-## Helton Soares 👋
+## Helton Soares 
 
 
-**32y, Spring boot developer, SQL Databse, student of algorithms and data structures**.
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+**32y, Spring boot developer, SQL Databse, Excel, student of algorithms and data structures**.
 
 Here are some ideas to get you started:
 
