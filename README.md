@@ -4,7 +4,7 @@
 **32y| Interest in open source projects | Spring boot developer | SQL Databse | Excel | Student of operating systems, algorithms and data structures**.
 
 
-
+Technologies/Frameworks:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=40 height=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 height=40/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" widht=40 height=40/> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" widht=40 height=40/> 
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=40 widht=40 />
