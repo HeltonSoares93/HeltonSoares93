@@ -1,7 +1,7 @@
 ## Helton Soares        
 # Backend Developer :computer:
 
-**32y| Interest in open source projects | Spring boot developer | SQL Databse | Excel | Student of operating systems, algorithms and data structures**.
+**32y | Interest in open source projects | Spring boot developer | SQL Databse | Excel | Student of operating systems, algorithms and data structures**.
 
 
 Technologies/Frameworks:
