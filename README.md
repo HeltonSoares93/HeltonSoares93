@@ -1,7 +1,7 @@
 ## Helton Soares        
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=40 height=40/>
           
           
 **32y, Spring boot developer, SQL Databse, Excel, student of algorithms and data structures**.
