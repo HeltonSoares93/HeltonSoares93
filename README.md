@@ -1,7 +1,7 @@
 ## Helton Soares 
 
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
           
 **32y, Spring boot developer, SQL Databse, Excel, student of algorithms and data structures**.
 
