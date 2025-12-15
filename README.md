@@ -34,8 +34,8 @@ Além do desenvolvimento de features, dedico parte da minha rotina ao estudo apr
 ### 📈 Estatísticas do GitHub
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=graywhite&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeltonSoares93&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeltonSoares93&layout=compact&theme=graywhite&hide_border=true" />
 </div>
 
 ---
