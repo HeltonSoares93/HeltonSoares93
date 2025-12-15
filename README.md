@@ -1,9 +1,9 @@
 # Helton Soares
 ### Desenvolvedor de Software | Java & Spring Ecosystem
 
-Sou um desenvolvedor focado na construção de aplicações robustas e escaláveis, com especialização no ecossistema **Java**. Minha abordagem de desenvolvimento combina a eficiência do **Spring Boot** no backend com a interatividade do **React** no frontend.
+Desenvolvedor focado na construção de aplicações robustas e escaláveis, com especialização no ecossistema **Java**. Minha abordagem de desenvolvimento combina a eficiência do **Spring Boot** no backend com a interatividade do **React** no frontend.
 
-Diferencio-me pelo interesse contínuo nos fundamentos da Ciência da Computação, acreditando que o conhecimento profundo de como os sistemas funcionam "por baixo do capô" é essencial para escrever código de alta performance.
+Meu foco é na otimização e performance das requisições ao banco de dados, acreditando que o refinamento das consultas e o uso inteligente da camada de persistência são essenciais para escrever código de alta eficiência.
 
 ---
 
