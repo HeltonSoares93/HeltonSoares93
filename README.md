@@ -1,4 +1,4 @@
-# Helton
+# Helton Soares
 ### Desenvolvedor de Software | Java & Spring Ecosystem
 
 Sou um desenvolvedor focado na construção de aplicações robustas e escaláveis, com especialização no ecossistema **Java**. Minha abordagem de desenvolvimento combina a eficiência do **Spring Boot** no backend com a interatividade do **React** no frontend.
@@ -7,7 +7,7 @@ Diferencio-me pelo interesse contínuo nos fundamentos da Ciência da Computaç�
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+###  Tech Stack & Ferramentas
 
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,7 +21,7 @@ Diferencio-me pelo interesse contínuo nos fundamentos da Ciência da Computaç�
 
 ---
 
-### 📚 Foco de Estudos e Aprimoramento
+###  Foco de Estudos e Aprimoramento
 
 Além do desenvolvimento de features, dedico parte da minha rotina ao estudo aprofundado de conceitos estruturais da computação para otimização de sistemas:
 
@@ -31,7 +31,7 @@ Além do desenvolvimento de features, dedico parte da minha rotina ao estudo apr
 
 ---
 
-### 📈 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeltonSoares93&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true" />
