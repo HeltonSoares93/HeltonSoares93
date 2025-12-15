@@ -44,5 +44,5 @@ Além do desenvolvimento de features, dedico parte da minha rotina ao estudo apr
 
 Estou aberto a discussões sobre arquitetura de software, oportunidades de desenvolvimento Java e projetos desafiadores.
 
-* [LinkedIn](URL_DO_SEU_LINKEDIN)
-* [E-mail](mailto:SEU_EMAIL@EXEMPLO.COM)
+* [LinkedIn][(URL_DO_SEU_LINKEDIN)](https://www.linkedin.com/in/helton-gomes-b33a70338/)
+* [E-mail](mailto:helton2009@gmail.com)
