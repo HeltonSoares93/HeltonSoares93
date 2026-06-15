@@ -3,7 +3,7 @@
 # Helton Soares
 ### Desenvolvedor de Software | Java & Spring Ecosystem
 
-Desenvolvedor backend com foco no ecossistema Java, atuando também com React no frontend e Python em projetos complementares. Pós-graduando em Deep Learning pelo Centro de Informática da UFPE (CIN-UFPE), com interesse particular em otimização de consultas, estrutura de dados e fundamentos de sistemas.
+Desenvolvedor backend com foco no ecossistema Java, atuando também com React no frontend e Python em projetos complementares. Pós-graduando em Deep Learning pelo Centro de Informática da UFPE (CIN-UFPE).
 
 </div>
 
